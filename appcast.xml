@@ -5,7 +5,7 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 1.0.1.6</title>
+        <title>Version 1.2.3.1</title>
         <description>
           <![CDATA[
             <ul>
@@ -17,7 +17,7 @@
           ]]>
         </description>
         <pubDate>Wed, 13 Apr 2019 14:52:11 +0000</pubDate>
-        <enclosure url="http://0.0.0.0:8000/GitWorkspace/github/SparkleTest/SparkleDemo.zip" sparkle:version="2.0" length="1685071" type="application/octet-stream" sparkle:edSignature="kemw9vzpG8y1mhGSq4NKEIoColr9/4MciUWaJCwD5Q+dy3ZX4kF7FuDmtIF8fc6mv6n3erndzMwoondtLkFvBQ==" />
+        <enclosure url="https://github.com/ylgf/ylgf.github.io/blob/master/SparkleDemo.zip" sparkle:version="2.0" length="1685071" type="application/octet-stream" sparkle:edSignature="P47IqtL4oGX63CWHhMAvRYz/4+drJGUJrx8Q/beC5F5CIL9vTJKmG1UnhA6eCv+qTumpqwDxtNBBMgqb65afCg==" />
       </item>
   </channel>
 </rss>
