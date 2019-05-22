@@ -5,19 +5,19 @@
     <description>Most recent changes with links to updates.</description>
     <language>zh_Hans</language>
       <item>
-        <title>Version 1.0.0.8</title>
+        <title>Version 1.0.0.9</title>
         <description>
           <![CDATA[
             <ul>
               <li>测试66666666666666666666666666.</li>
               <li>测试66666666666666666666666666.</li>
-              <li>测试88888888888888888888888888.</li>
-              <li>测试88888888888888888888888888.</li>
+              <li>测试.</li>
+              <li>测试.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>Wed, 22 May 2019 14:52:11 +0000</pubDate>
-        <enclosure url="https://github.com/ylgf/ylgf.github.io/blob/master/UpdateApp.zip" sparkle:version="1.0.0.8" length="1559297" type="application/octet-stream" sparkle:edSignature="oEnBBlVr8b/0iY3LYCcZicEKZM3qP4cfxop+5SLCqucldxVxvBhEIblxxNaOWDY9t/N0Gd9WWu97a/03jKg2Bw=="/>
+        <pubDate>Wed, 16 May 2019 14:52:11 +0000</pubDate>
+        <enclosure url="" sparkle:version="1.0.0.9" length="1482689" type="application/octet-stream" sparkle:edSignature="fotf38EFIOCszwvn8ajhhmfG6GGcFCmet9z5ANpGKD6ohPZonjI9Br7yYNmd/D11ZmObXpYYkCnOdFb2rKNjBA=="/>
       </item>
   </channel>
 </rss>
